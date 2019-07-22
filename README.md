@@ -10,5 +10,5 @@ https://www.cnblogs.com/tugenhua0707/p/4050072.html
 | 陈刚/Arthur  |TestMonoBA+front_end |
 | 刘虹蔚/Hanny  | edge_imu+CurveFitting |
 | 董洞洞  |	edge_reprojection+edge_prior|
-| 王宏伟/千里  | imu_integration+vertex全部 |
+| 王宏伟/狼牙  | imu_integration+vertex全部 |
 | 孙云雷  | 	problem+edge.cc |
